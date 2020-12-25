@@ -256,7 +256,7 @@ int main()
 
 	op2(A, n);
 	out(A, n);
-	/*if (EA(A, n))
+	if (EA(A, n))
 	{
 		statement_true(A, B, C, n);
 		out(C, n);
@@ -265,5 +265,5 @@ int main()
 	{
 		statement_false(A, B, C, n);
 		out(C, n);
-	}*/
+	}
 }
